@@ -1,2 +1,2 @@
-# customer-segmentation-project
-Customer Segmentation using KMeans clustering
+# Seoul Bike Demand Analysis
+Demand analysis of Seoul's bike sharing service
